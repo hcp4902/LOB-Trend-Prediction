@@ -1,0 +1,6 @@
+GRU:
+  batch_size: 64
+  learning_rate: 0.0001
+  epsilon: 1e-08
+  epoch: 30
+  num_workers: 4
